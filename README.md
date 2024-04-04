@@ -9,7 +9,7 @@ The Beneficiary Management System is a Java-based application designed to manage
 
 ## Design Choices and Architecture
 
-This section outlines the key architectural decisions and the rationale behind these choices.
+This section outlines the key architectural decisions
 
 ### Architecture Overview
 
